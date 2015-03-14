@@ -1,8 +1,6 @@
 <?php
 
 function strip_comments_node_view_alter(&$build) {
-	//kpr($build['comments']);
-
 	// REMOVES ADD COMMENT LINK BEFORE COMMENTS
 	unset($build['links']['comment']['#links']);
 
