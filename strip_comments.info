@@ -1,4 +1,4 @@
-name = Unset Comments
+name = Strip Comments
 description = Overwrites core comment functionality to remove comments from nodes
 core = 7.x
 dependencies[] = comment
