@@ -8,7 +8,7 @@ This small module basically removes the annoying stuff while leaving the builder
 
 This may not be the most efficient way to remove/hide comments and comment links as, I believe, it's still querying the database? If you use this module, you do so at your own risk. I *am* a themer/designer... ;)
 
-Also, this module does not mess with the text format inputs. I was worried that I would mess up the sanitization of the form so I opted to leave that out (I couldn't get it to work, in any case). I'd recommend using the [Better Formats](https://www.drupal.org/project/better_formats) module to handle that part of the display.
+Also, this module does not mess with the text format inputs. I was worried that I would mess up the sanitization of the form so I opted to leave that out. I'd recommend using the [Better Formats](https://www.drupal.org/project/better_formats) module to handle that part of the display.
 
 ## HELP WITH CUSTOMIZING COMMENT DISPLAY
 
